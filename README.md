@@ -3,4 +3,4 @@
 It consists of classes for User and Bank to manage user data and authentication.<br>
 The application : <br>
 <li><b>Displays a Welcome Message : </b>Greets users upon starting the application. </li>
-<li>User Authentication :  </li></p>
+<li><b>User Authentication : </b>Asks users to input their User ID and password. If incorrect, they are prompted up to five times before the account is blocked, instructing the user to visit the bank. </li></p>
