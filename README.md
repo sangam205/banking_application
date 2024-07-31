@@ -11,3 +11,4 @@ The application : <br>
 <li>Exit the application</li></ul></li><br>
 Each action is handled with appropriate validation and feedback. <br>
 The project emphasizes secure handling of user data, error checking and user-friendly interaction.</p>
+[Bank App images.pdf](https://github.com/user-attachments/files/16437525/Bank.App.images.pdf)
