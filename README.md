@@ -12,7 +12,10 @@ The application : <br>
 Each action is handled with appropriate validation and feedback. <br>
 The project emphasizes secure handling of user data, error checking and user-friendly interaction.</p> <br>
 
-![image](https://github.com/user-attachments/assets/a3dc9dc1-2926-4dc4-a5a8-11961d7b0af0)  <br>
+![image](https://github.com/user-attachments/assets/a3dc9dc1-2926-4dc4-a5a8-11961d7b0af0)  <br><br>
 
-![image](https://github.com/user-attachments/assets/087df274-73bb-4c32-9d38-41bc08bd8d9b)  <br>
+![image](https://github.com/user-attachments/assets/087df274-73bb-4c32-9d38-41bc08bd8d9b)  <br><br>
+
+![image](https://github.com/user-attachments/assets/97b5bed1-f519-4f13-890f-6b2612c0baf3)  <br><br>
+
 
