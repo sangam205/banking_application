@@ -5,7 +5,7 @@ The application : <br>
 <li><b>Displays a Welcome Message : </b>Greets users upon starting the application. </li>
 <li><b>User Authentication : </b>Asks users to input their User ID and password. If incorrect, they are prompted up to five times before the account is blocked, instructing the user to visit the bank. </li>
 <li><b>Main Menu Options : </b>Upon successful login, users are presented with options to : <br>
-<li>Deposit money</li>
-<ul>Withdraw money</ul>
-<ul>Check their balance</ul>
-<ul>Exit the application</ul></li></p>
+<ul><li>Deposit money</li>
+<li>Withdraw money<li>
+<li>Check their balance</li>
+<li>Exit the application</li></ul></li></p>
