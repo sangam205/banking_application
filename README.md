@@ -8,4 +8,6 @@ The application : <br>
 <ul><li>Deposit money</li>
 <li>Withdraw money</li>
 <li>Check their balance</li>
-<li>Exit the application</li></ul></li></p>
+<li>Exit the application</li></ul></li><br>
+Each action is handled with appropriate validation and feedback. <br>
+The project emphasizes secure handling of user data, error checking and user-friendly interaction.</p>
