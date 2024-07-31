@@ -6,6 +6,6 @@ The application : <br>
 <li><b>User Authentication : </b>Asks users to input their User ID and password. If incorrect, they are prompted up to five times before the account is blocked, instructing the user to visit the bank. </li><br>
 <li><b>Main Menu Options : </b>Upon successful login, users are presented with options to : <br>
 <ul><li>Deposit money</li>
-<li>Withdraw money<li>
+<li>Withdraw money</li>
 <li>Check their balance</li>
 <li>Exit the application</li></ul></li></p>
