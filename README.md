@@ -30,4 +30,5 @@ The project emphasizes secure handling of user data, error checking and user-fri
 
 ![image](https://github.com/user-attachments/assets/c59464a4-d610-40de-878a-6cb9f544849c)  <br><br>
 
+![image](https://github.com/user-attachments/assets/581eed02-7934-453c-b78f-a3b48b5638c8)  <br><br>
 
